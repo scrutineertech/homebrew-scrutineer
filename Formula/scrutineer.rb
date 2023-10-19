@@ -2,9 +2,9 @@ class Scrutineer < Formula
   desc "Sign and verify git commits"
   homepage "https://scrutineer.tech"
   url "https://github.com/scrutineertech/scrutineer.git",
-	tag: "v0.1.4",
-	revision: "19a9e213acaa06695ded183fe080ecc28bb4b6db"
-  version "0.1.4"
+	tag: "v0.1.5",
+	revision: "e00a963c46d48ed911d26b8de830bb681dd75af2"
+  version "0.1.5"
 
   depends_on "go" => :build
 
